@@ -1,0 +1,122 @@
+[
+  {
+    "course_name": "redux",
+    "language": "javascript",
+    "image": "https://cdn.zapier.com/storage/blog/4ec8fc7dc3a75758a3913bab9e5a4fd8_2.500x278.png",
+    "description": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces. Similar to Facebook's Flux architecture, it was created by Dan Abramov and Andrew Clark",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "node js",
+    "language": "javascript",
+    "image": "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png",
+    "description": "Node.js is an open-source server environment. Node.js is cross-platform and runs on Windows, Linux, Unix, and macOS. Node.js is a back-end JavaScript runtime environment. Node.js runs on the V8 JavaScript Engine and executes JavaScript code outside a web browser.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "react js",
+    "language": "javascript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+    "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "vue js",
+    "language": "javascript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png",
+    "description": "Vue.js is an open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You, and is maintained by him and the rest of the active core team members",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "laravel",
+    "language": "php",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png",
+    "description": "Laravel is a free and open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "symfony",
+    "language": "php",
+    "image": "https://symfony.com/logos/symfony_black_03.png",
+    "description": "Symfony is a free and open-source PHP web application framework and a set of reusable PHP component libraries. It was published as free software on October 18, 2005, and released under the MIT license.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "phalcon",
+    "language": "php",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Phalcon_logo.png",
+    "description": "Phalcon is a PHP web framework based on the model–view–controller pattern. Originally released in 2012, it is an open-source framework licensed under the terms of the BSD License.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "django",
+    "language": "python",
+    "image": "https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png",
+    "description": "Django is a free and open-source, Python-based web framework that follows the model–template–views architectural pattern. It is maintained by the Django Software Foundation, an independent organization established in the US as a 501 non-profit",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "flask",
+    "language": "python",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png",
+    "description": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  },
+  {
+    "course_name": "spark",
+    "language": "java",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spark_Java_Logo.png/250px-Spark_Java_Logo.png",
+    "description": "Spark is a free and open-source software web application framework and domain-specific language written in Java. It is an alternative to other Java web application frameworks such as JAX-RS, Play framework and Spring MVC.",
+    "feature": [
+      "1.5 month long course",
+      "400 quiz race opportunities",
+      "approx 300+ hour video content",
+      "when you finish the course, we will give certificate."
+    ]
+  }
+]

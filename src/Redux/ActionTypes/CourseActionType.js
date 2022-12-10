@@ -1,0 +1,7 @@
+export const TOGGLE_UPLOAD = "TOGGLE_UPLOAD";
+export const TOGGLE_COURSE = "TOGGLE_COURSE";
+export const GET_COURSE = "GET_COURSE";
+export const ADD_COURSE = "ADD_COURSE";
+export const UPDATE_COURSE = "UPDATE_COURSE";
+export const REMOVE_COURSE = "REMOVE_COURSE";
+export const READ_HISTORY = "READ_HISTORY";
