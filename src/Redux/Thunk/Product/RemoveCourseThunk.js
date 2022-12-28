@@ -2,7 +2,7 @@ import { removeCourse } from "../../Actions/CourseAction";
 
 const RemoveCourseThunk = (id) => {
     return async (dispatch) => {
-        const res = await fetch(`https://redux-crash-course-assignment-1-production.up.railway.app/course/${id}`, {
+        const res = await fetch(`https://tutorial-point-server-side.vercel.app/course/${id}`, {
             method: "DELETE",
             headers: {
                 "Content-type": "application/json",

@@ -3,7 +3,7 @@ import { addCourse } from "../../Actions/CourseAction";
 
 const AddCourseThunk = (newCourse) => {
     return async (dispatch) => {
-        const res = await fetch("https://redux-crash-course-assignment-1-production.up.railway.app/course", {
+        const res = await fetch("https://tutorial-point-server-side.vercel.app/course", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
